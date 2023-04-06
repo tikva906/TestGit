@@ -1,2 +1,2 @@
 program_name = "программа"
-print(program_name)
+print("Name: " + program_name)
