@@ -1,2 +1,2 @@
-program_name = "Тестовая программа"
+program_name = "программа"
 print(program_name)
