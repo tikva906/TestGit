@@ -1,2 +1,2 @@
 program_name = "Тестовая программа"
-print(program_name)
+print(f"Програма: {program_name}")
